@@ -29,7 +29,7 @@ new RegExp("[a-z]", "gi") /
 
 ```js
 const str = `
-010-9397-5352
+010-1234-5678
 thesecon@gmail.com
 https://regexr.com/
 The quick brown fox jumps over the lazy dog.
